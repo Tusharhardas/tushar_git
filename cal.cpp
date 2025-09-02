@@ -2,7 +2,6 @@
 using namespace std;
 int main(){
     int a,b;
-    cout<<"calculator";
     cout<<"enter tow number";
     cin>>a>>b;
     cout<<"the sum"<<a+b;
