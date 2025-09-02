@@ -5,5 +5,10 @@ int main(){
     cout<<"enter tow number";
     cin>>a>>b;
     cout<<"the sum"<<a+b;
-    return 0;
+    cout<<"the sub"<<a-b;
+    cout<<"the mul"<<a*b;
+    
+
+     return 0;
+
 }
