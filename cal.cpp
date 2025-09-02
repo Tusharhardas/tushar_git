@@ -7,7 +7,8 @@ int main(){
     cout<<"the sum"<<a+b;
     cout<<"the sub"<<a-b;
     cout<<"the mul"<<a*b;
-    
+    cout<<"the div"<<a/b;
+
 
      return 0;
 
